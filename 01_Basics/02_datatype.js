@@ -8,7 +8,7 @@ let age = 19  // integer/numbers ->2 to power53 /bigint
 let isLoggedIn = false/true //boolean
 
 
-//null -> standalone value // can say the value we still has't got 
+//null -> standalone value // can say the value we still has't got or EMPTY
 
 //undefined ->  means the value is not defined yet
 
