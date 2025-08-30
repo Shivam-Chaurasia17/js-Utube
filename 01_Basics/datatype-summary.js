@@ -46,3 +46,10 @@ console.log(typeof myObj ); // object
 console.log(typeof myFunction); //funtion or object-function
 // console.log(typeof );
 // console.log(typeof );
+
+
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (primitive), Heap (Non Primitive)
