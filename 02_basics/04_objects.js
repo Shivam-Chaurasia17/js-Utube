@@ -40,23 +40,53 @@ const user = [
         email:"shivam@sde.com"
     },
     { id:2,
-        email:"shivam@sde.com"
+        email:"shivam@iit.com"
     },
     { id:3,
-        email:"shivam@sde.com"
+        email:"shivam@jnv.com"
     },
     { id:4,
-        email:"shivam@sde.com"
+        email:"shivam@gus.com"
     },
     { id:5,
-        email:"shivam@sde.com"
+        email:"shivam@chatgpt.com"
     }
 ]
 
 user[1].email
 
-console.log(tinderUser);
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
-console.log(Object.entries(tinderUser));
-console.log(tinderUser.hasOwnProperty("loggedIn"))
+// console.log(tinderUser);
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
+// console.log(Object.entries(tinderUser));
+// console.log(tinderUser.hasOwnProperty("loggedIn"));
+
+
+const course = {
+    courseName: "JS in hindi",
+    coursePrice: "349",
+    courseInstructor: "Hitesh"
+}
+
+console.log(course.courseInstructor)
+
+const {courseInstructor} = course// destructuring of object 
+console.log(courseInstructor);
+
+const {courseInstructor: instructor} = course
+console.log(instructor);
+
+
+//JASON formate APIs
+
+// {
+//     "name" : "Shivam",
+//     "college": "IIT Dhanbad",
+//     "Branch" : "Mining Engn."
+// }
+
+[
+    {},
+    {},
+    {}
+]
