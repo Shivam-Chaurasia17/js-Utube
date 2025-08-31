@@ -20,7 +20,7 @@ const JsUser = {
 
 // console.log(JsUser.name);//
 // console.log(JsUser["name"]);
-// console.log(JsUser["full name"]);//forthis typeof key we can't able to use the first syntax for output
+// console.log(JsUser["full name"]);//for this type of key we can't able to use the first syntax for output
 // // console.log(JsUser.mySym);//this is aplicable when the data type is not SYMBOL
 // console.log(JsUser[mySym]);//syntax when the data type is SYMBOL
 
