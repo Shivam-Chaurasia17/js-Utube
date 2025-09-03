@@ -42,4 +42,4 @@ const sum2 = (num1 , num2) => num1 + num2 // no need to write return
 const sum3 = (num1 , num2) => (num1 + num2)//same no need to write return but we can use paranthesis 
 
 const usr = () => ({username:"Shivam"}) // if i want to write object in the same fashion in which 
-// we do not need to wrute the RETURN then we must have to write the object inside the paranthesis
+// we do not  need to wrute the RETURN then we must have to write the object inside the paranthesis
